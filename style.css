@@ -25,51 +25,108 @@ h1{
     border:#48D1CC;
     border-radius:8px;
     text-align:center;
+    text-transform: uppercase;
 }
 footer p{
-    border:2px solid rgb(90, 80, 80);
+    border:2px solid black;
     font-family:font-stretch;
     text-align:center;
-    font-size:17px;
+    font-size:19px;
+    color:orange;
+    background-color:lightblue;
+    border-radius:15px;
 }
 .a{
     border:2px solid #FFD700;
     border-radius:8px;
     text-decoration:none;
     color:#C71585;
+    font-family:font-stretch;
   
 }
 .b{
-    border:2px solid #9932CC;
-    background-color:#9932CC;
+    border:2px solid black;
+    background-color:pink;
     text-decoration:none;
-    color:black;
+    color:blue;
     border-radius:8px;
+    font-family:font-stretch;
 }
 nav{
     margin:8px;
     font-size:20px;
 }
 .c{
-    border:2px solid #9932CC;
-    background-color:#9932CC;
+    border:2px solid black;
+    background-color:pink;
     text-decoration:none;
-    color:black;
+    color:blue;
     border-radius:8px;
+    font-family:font-stretch;
 
 }
 .d{
-    border:2px solid #9932CC;
-    background-color:#9932CC;
+    border:2px solid black;
+    background-color:pink;
     text-decoration:none;
-    color:black;
+    color:blue;
     border-radius:8px;
+    font-family:font-stretch;
 }
 .purple{
-    border:3px solid violet;
+    border:2px solid black;
     border-radius:15px;
     background-color:violet;
+    padding:10px;
+    text-align:center;
+    color:blue;
+    font-family:font-stretch;
+    font-size:17px;
 }
 main{
     margin:8px;
+}
+.top{
+    color:orange;
+    font-size:20px;
+}
+.maga{
+    font-size:20px;
+    color:violet;
+}
+.bebra{
+    text-decoration:none;
+    color:red;
+    border-radius:9px;
+    border:1px solid black;
+    background-color: yellow;
+    font-family:font-stretch;
+    padding:5px;
+    font-size:20px;
+}
+p img{
+    display:block;
+    margin: 0 auto;
+}
+.xd{
+    border:2px solid black;
+border-radius:12px;
+padding:10px;
+text-decoration:none;
+color:red;
+background-color:yellow;
+}
+p{
+    font-size:20px;
+    font-family:Comic Sans MS;
+}
+.jey{
+    display:block;
+    margin:0 auto;
+}
+.grot{
+    border:2px solid black;
+    border-radius:10px;
+    padding:1px;
+    margin:9px;
 }
