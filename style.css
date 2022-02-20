@@ -37,7 +37,7 @@ footer p{
     border-radius:8px;
     text-decoration:none;
     color:#C71585;
-    font-size:30px;
+  
 }
 .b{
     border:2px solid #9932CC;
@@ -48,6 +48,7 @@ footer p{
 }
 nav{
     margin:8px;
+    font-size:20px;
 }
 .c{
     border:2px solid #9932CC;
